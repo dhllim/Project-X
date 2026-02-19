@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+4c38d1f5950a5fc2616f26d7e92e750f51c13ac2 refs/remotes/origin/dev
+cd4c0465ae0b54a6f85af57f5c65fec9fe23e7f8 refs/remotes/origin/main
+ae69a4c57c9838370643dd2c9b7d1f6ba16a54d8 refs/remotes/origin/stable
+2fc32d430404b47c4c9d94804924cd827b3368d8 refs/remotes/origin/vinthony-patch-1
+434dc2a9e00c48bb611f3d7e09bbc785d8d88ad0 refs/tags/v0.0.1
+35dd94f443e5cd542ee3db0b627815d79478196e refs/tags/v0.0.2
+28b8dfc2ebed9a00238090e5d46329cb77643207 refs/tags/v0.0.2-rc
