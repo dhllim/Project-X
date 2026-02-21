@@ -1,6 +1,6 @@
 from gtts import gTTS
 
-text = "xin jiang! Xin jiang. Here we come. Get Ready Now. don't miss the chance"
+text = "xin jiang! Xin jiang. Here we come. Get Ready Now is Good Good"
 tts = gTTS(text=text, lang="en")
 tts.save("voice.mp3")
 
